@@ -137,7 +137,13 @@ html, body {
     padding: 10px;
     margin-bottom: 10px;
     border: 2px solid #333333; 
+    transition: 1s;
   }
+  .supporting a:hover {
+  background-color: black;
+  color: white;
+  }
+  
   
   @media (max-width: 500px) {
     main h1 {
