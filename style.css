@@ -15,11 +15,14 @@ html, body {
     padding: 20px 0;
   }
   
-  nav li {
+  nav li, a{
     color: #fff;
     font-family: 'Raleway', sans-serif;
     font-weight: 600;
     font-size: 12px;
+    text-decoration: none;
+    
+
     display: inline-block;
     width: 80px;
   }
